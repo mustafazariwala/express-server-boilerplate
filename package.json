@@ -1,0 +1,17 @@
+{
+  "name": "express-server-boilerplate",
+  "version": "1.0.0",
+  "description": "Get started with Express Server",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mustafa Zariwala",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.1",
+    "moment": "^2.30.1"
+  }
+}
